@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqgyc1yfsaufd"
-path="res://.godot/imported/0_Hell_Knight_Walking_023.png-a1242bbe5c50f62cebb6a9101a721e3d.ctex"
+path="res://.godot/imported/0_Hell_Knight_Walking_023.png-a761b5eb9581566953050ce9fcdd0123.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/characters/knight/walk/0_Hell_Knight_Walking_023.png"
-dest_files=["res://.godot/imported/0_Hell_Knight_Walking_023.png-a1242bbe5c50f62cebb6a9101a721e3d.ctex"]
+source_file="res://GodotMultiplayerAssets/art/characters/knight/walk/0_Hell_Knight_Walking_023.png"
+dest_files=["res://.godot/imported/0_Hell_Knight_Walking_023.png-a761b5eb9581566953050ce9fcdd0123.ctex"]
 
 [params]
 

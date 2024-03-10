@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dv6ipf3chsuy4"
-path="res://.godot/imported/0_Dark_Elves_Walking_014.png-732fa74ad8fa6fa947d5ac64a19f04e7.ctex"
+path="res://.godot/imported/0_Dark_Elves_Walking_014.png-5da47532336f38d16217488f86e037a4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/characters/elf/walk/0_Dark_Elves_Walking_014.png"
-dest_files=["res://.godot/imported/0_Dark_Elves_Walking_014.png-732fa74ad8fa6fa947d5ac64a19f04e7.ctex"]
+source_file="res://GodotMultiplayerAssets/art/characters/elf/walk/0_Dark_Elves_Walking_014.png"
+dest_files=["res://.godot/imported/0_Dark_Elves_Walking_014.png-5da47532336f38d16217488f86e037a4.ctex"]
 
 [params]
 

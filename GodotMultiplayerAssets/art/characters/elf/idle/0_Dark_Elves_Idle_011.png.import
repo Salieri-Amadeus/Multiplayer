@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwxubw3rnrlrw"
-path="res://.godot/imported/0_Dark_Elves_Idle_011.png-971d07f5196d70810ae704a0443f66c5.ctex"
+path="res://.godot/imported/0_Dark_Elves_Idle_011.png-45a278202218622a3d6712ea06eb5d26.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/characters/elf/idle/0_Dark_Elves_Idle_011.png"
-dest_files=["res://.godot/imported/0_Dark_Elves_Idle_011.png-971d07f5196d70810ae704a0443f66c5.ctex"]
+source_file="res://GodotMultiplayerAssets/art/characters/elf/idle/0_Dark_Elves_Idle_011.png"
+dest_files=["res://.godot/imported/0_Dark_Elves_Idle_011.png-45a278202218622a3d6712ea06eb5d26.ctex"]
 
 [params]
 

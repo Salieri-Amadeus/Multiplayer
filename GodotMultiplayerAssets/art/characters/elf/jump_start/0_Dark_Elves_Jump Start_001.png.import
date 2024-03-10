@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxja2hxgf0hku"
-path="res://.godot/imported/0_Dark_Elves_Jump Start_001.png-b6e82e14da5e3cab123614ad4acde1c0.ctex"
+path="res://.godot/imported/0_Dark_Elves_Jump Start_001.png-2093884733202a8b40299132af417901.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/characters/elf/jump_start/0_Dark_Elves_Jump Start_001.png"
-dest_files=["res://.godot/imported/0_Dark_Elves_Jump Start_001.png-b6e82e14da5e3cab123614ad4acde1c0.ctex"]
+source_file="res://GodotMultiplayerAssets/art/characters/elf/jump_start/0_Dark_Elves_Jump Start_001.png"
+dest_files=["res://.godot/imported/0_Dark_Elves_Jump Start_001.png-2093884733202a8b40299132af417901.ctex"]
 
 [params]
 

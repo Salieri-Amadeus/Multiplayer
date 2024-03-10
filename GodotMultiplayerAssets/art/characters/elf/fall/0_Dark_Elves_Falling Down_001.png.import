@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4wrx32bcp5na"
-path="res://.godot/imported/0_Dark_Elves_Falling Down_001.png-9df1c1a676af92bebe4237fd1256fc44.ctex"
+path="res://.godot/imported/0_Dark_Elves_Falling Down_001.png-6614b47a888a473759d97671ffef27d6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/characters/elf/fall/0_Dark_Elves_Falling Down_001.png"
-dest_files=["res://.godot/imported/0_Dark_Elves_Falling Down_001.png-9df1c1a676af92bebe4237fd1256fc44.ctex"]
+source_file="res://GodotMultiplayerAssets/art/characters/elf/fall/0_Dark_Elves_Falling Down_001.png"
+dest_files=["res://.godot/imported/0_Dark_Elves_Falling Down_001.png-6614b47a888a473759d97671ffef27d6.ctex"]
 
 [params]
 

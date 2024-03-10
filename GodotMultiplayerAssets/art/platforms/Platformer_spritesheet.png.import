@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chwbcf7n2ajtp"
-path="res://.godot/imported/Platformer_spritesheet.png-1cf78ce64808dbed4be3c16ef01269a8.ctex"
+path="res://.godot/imported/Platformer_spritesheet.png-bdcdb34d368f6d98743e7b913ab3642e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/platforms/Platformer_spritesheet.png"
-dest_files=["res://.godot/imported/Platformer_spritesheet.png-1cf78ce64808dbed4be3c16ef01269a8.ctex"]
+source_file="res://GodotMultiplayerAssets/art/platforms/Platformer_spritesheet.png"
+dest_files=["res://.godot/imported/Platformer_spritesheet.png-bdcdb34d368f6d98743e7b913ab3642e.ctex"]
 
 [params]
 

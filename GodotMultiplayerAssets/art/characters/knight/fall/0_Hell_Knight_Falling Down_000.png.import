@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjiihbnh8w66y"
-path="res://.godot/imported/0_Hell_Knight_Falling Down_000.png-e2085be707c89ac083023dd093e0ab98.ctex"
+path="res://.godot/imported/0_Hell_Knight_Falling Down_000.png-7fcaacb66e19b429159bce8059f7e536.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/characters/knight/fall/0_Hell_Knight_Falling Down_000.png"
-dest_files=["res://.godot/imported/0_Hell_Knight_Falling Down_000.png-e2085be707c89ac083023dd093e0ab98.ctex"]
+source_file="res://GodotMultiplayerAssets/art/characters/knight/fall/0_Hell_Knight_Falling Down_000.png"
+dest_files=["res://.godot/imported/0_Hell_Knight_Falling Down_000.png-7fcaacb66e19b429159bce8059f7e536.ctex"]
 
 [params]
 

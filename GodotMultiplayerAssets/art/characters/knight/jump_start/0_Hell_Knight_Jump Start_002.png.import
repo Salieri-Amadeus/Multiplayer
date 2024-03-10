@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddc7agvgpw0ku"
-path="res://.godot/imported/0_Hell_Knight_Jump Start_002.png-03a0664c3a1aa25e651366b6a72ffd21.ctex"
+path="res://.godot/imported/0_Hell_Knight_Jump Start_002.png-39e95e579808c2324ee26bfebdfd61e7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/characters/knight/jump_start/0_Hell_Knight_Jump Start_002.png"
-dest_files=["res://.godot/imported/0_Hell_Knight_Jump Start_002.png-03a0664c3a1aa25e651366b6a72ffd21.ctex"]
+source_file="res://GodotMultiplayerAssets/art/characters/knight/jump_start/0_Hell_Knight_Jump Start_002.png"
+dest_files=["res://.godot/imported/0_Hell_Knight_Jump Start_002.png-39e95e579808c2324ee26bfebdfd61e7.ctex"]
 
 [params]
 

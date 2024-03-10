@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://blq686p5l1kke"
-path="res://.godot/imported/0_Hell_Knight_Idle_001.png-e813afbad9c43de077a9e7c1ca4343e1.ctex"
+path="res://.godot/imported/0_Hell_Knight_Idle_001.png-b695b375f838869c050948f4695386a4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/characters/knight/idle/0_Hell_Knight_Idle_001.png"
-dest_files=["res://.godot/imported/0_Hell_Knight_Idle_001.png-e813afbad9c43de077a9e7c1ca4343e1.ctex"]
+source_file="res://GodotMultiplayerAssets/art/characters/knight/idle/0_Hell_Knight_Idle_001.png"
+dest_files=["res://.godot/imported/0_Hell_Knight_Idle_001.png-b695b375f838869c050948f4695386a4.ctex"]
 
 [params]
 
